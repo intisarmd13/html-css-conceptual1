@@ -1,3 +1,59 @@
 h2{
     color: cornflowerblue;
+    font-style: italic;
+    font-weight: bold ;
+    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+
+text-decoration: overline;
+font-size: 40px;
+text-align: center;
+text-align: center;
+}
+
+#heading-parent {
+
+    /* background-color: bisque; */
+
+    /* background-image: linear-gradient(bisque,pink); */
+
+background-image: url(../assets/pexels-danny-meneses-340146-943096.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+/* background-position: center; */
+
+    height: 450px;
+    padding: 50px 0;
+max-width : 1100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+margin-right: auto;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    background-color:rgb(223, 235, 133);
+    padding: 8px 10px;
+    width: 190px;
+    max-height: 40px;
+
+    color: black;
+    border-style: solid;
+    /* border-width: 20px; */
+    border-radius: 15px;
+
+  border-color: wheat;
+     margin: 100px 0;
+     font-size: 18px;
+}
+.btn-parent
+{
+    text-align: center;
+
 }
